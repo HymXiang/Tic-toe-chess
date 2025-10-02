@@ -1,4 +1,2 @@
-# Tic-toe-chess
-A Tic toe chess game
-You should enter two number. Then wait.
-Attention!!!!! My English is not good!
+一个井字棋游戏
+游玩时输入要下棋子的位置的坐标，就行了
